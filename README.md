@@ -15,4 +15,4 @@
 2. e is fout
 3. k is fout
 4. o is goed 
-5. 
+5. d
