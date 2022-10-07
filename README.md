@@ -3,7 +3,7 @@
 ## Te raden woord
 
    
-|.|.|.|.|
+|.|o|.|.|
 |-|-|-|-|
 |1|2|3|4|
 
@@ -14,4 +14,5 @@
 1. a is fout
 2. e is fout
 3. k is fout
-4. o
+4. o is goed 
+5. 
