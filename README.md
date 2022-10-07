@@ -1,6 +1,7 @@
 # Galgje
 
 ## Te raden woord
+a
 
 |.|.|.|.|
 |-|-|-|-|
@@ -10,5 +11,5 @@
 ![gallow](https://raw.githubusercontent.com/SomeRandomNeko1/galgje/master/images/1.png)
 
 ## Beurten
-1. 
+1. a
 2. 
