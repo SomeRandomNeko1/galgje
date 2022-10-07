@@ -2,7 +2,7 @@
 
 ## Te raden woord
 a
-
+   e
 |.|.|.|.|
 |-|-|-|-|
 |1|2|3|4|
@@ -12,4 +12,4 @@ a
 
 ## Beurten
 1. a is fout
-2. 
+2. e
