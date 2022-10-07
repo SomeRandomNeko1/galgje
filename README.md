@@ -2,13 +2,13 @@
 
 ## Te raden woord
 
-|.|a|.|.|.|
-|-|-|-|-|-|
-|1|2|3|4|5|
+|.|.|.|.|
+|-|-|-|-|
+|1|2|3|4|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](https://raw.githubusercontent.com/SomeRandomNeko1/galgje/master/images/1.png)
 
 ## Beurten
-1. a - goed!
+1. 
 2. 
